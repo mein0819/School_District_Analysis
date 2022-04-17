@@ -46,4 +46,4 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
   
   Math Scores by Grade:
   
-  ![grade scores](
+  ![grade scores](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/mathGrade_New.png)
