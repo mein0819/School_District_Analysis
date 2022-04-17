@@ -97,4 +97,7 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
     - Percentage Passing Math dropped from 93.2 to 93.1
     - Percentage Passing Reading dropped from 97.3 to 97.0
     - Percentage Passing both Math and Reading dropped from 90.9 to 90.6
-3. 
+3. All Math Scores for 9th grade are removed from the summary by grade data frame for Thomas High School
+4. All Reading Scores for the 9th grade are removed from the summary by grade date frame for Thomas High School
+    - Removing both of these scores would have a greater impact on any analysis on the grade level, particularly
+      any analysis for the 9th grade on the district level.
