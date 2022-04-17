@@ -36,4 +36,5 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
 
   Updated Summary for Thomas High School
   
+  ![new school summary](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/schoolSummary_New.png)
   
