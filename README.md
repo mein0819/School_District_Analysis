@@ -23,3 +23,4 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
 - District Summary: Removing scores from 461 students showed a small decrease in the overall scores for the district <br/>
   Original District Analysis Data Frame
   
+  ![orig district analysis](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/districtAnalysis_Old.png)
