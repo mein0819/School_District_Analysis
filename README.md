@@ -69,3 +69,7 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
   Original School Size Metrics
   
   ![original size](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/size_Old.png)
+  
+  Updated School Size Metrics
+  
+  ![updated size](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/size_New.png)
