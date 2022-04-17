@@ -21,6 +21,7 @@ The analysis provides the following:
 
 Replacing math and reading scores for 9th grade students at Thomas High School with NaNs showed the following results:
 - District Summary: Removing scores from 461 students showed a small decrease in the overall scores for the district <br/>
+  
   Original District Analysis Data Frame
   
   ![orig district analysis](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/schoolSummary_Old.png)
@@ -29,7 +30,7 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
   
   ![updated district analysis](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/districtAnalysis_New.png)
   
-- School Summary: Average scores stayed relatively the same but passing percentages decreased significantly
+- School Summary: All of the metrics had slight decreases, either a few tenths or hundredths of a percent
   Original Summary for Thomas High School
   
   ![orig school summary](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/schoolSummary_Old.png)
@@ -38,3 +39,11 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
   
   ![new school summary](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/schoolSummary_New.png)
   
+- Performance relative to other schools: Thomas High School's updated metrics weren't enough to change their <br/>
+  position in relation to other schools, they're still ranked second among top performing schools.
+- Math and Reading scores by grade: 10th thru 12th average scores stayed the same, but 9th grade scores were <br/>
+  replaced by 'nan' and that's the value placed in the data frames
+  
+  Math Scores by Grade:
+  
+  ![grade scores](
