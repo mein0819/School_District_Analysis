@@ -20,4 +20,6 @@ The analysis provides the following:
 ## Analysis
 
 Replacing math and reading scores for 9th grade students at Thomas High School with NaNs showed the following results:
-- District Summary: Removing scores from 461 students showed a small decrease in the overall scores for the district
+- District Summary: Removing scores from 461 students showed a small decrease in the overall scores for the district <br/>
+  Original District Analysis Data Frame
+  
