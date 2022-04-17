@@ -47,3 +47,12 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
   Math Scores by Grade:
   
   ![grade scores](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/mathGrade_New.png)
+  
+  Reading Scores by Grade:
+  
+  ![reading scores](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/readingGrade_New.png)
+  
+- Scores by School Spending: Dropping the 9th grade scores from Thomas High School had no noticible effect on the <br/>
+  metrics for the spending ranges per student for the district. Thomas High School falls in the $631-645 range.
+  
+  Original Spending Range Metrics
