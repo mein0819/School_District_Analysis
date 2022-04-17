@@ -29,4 +29,11 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
   
   ![updated district analysis](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/districtAnalysis_New.png)
   
-- 
+- School Summary: Average scores stayed relatively the same but passing percentages decreased significantly
+  Original Summary for Thomas High School
+  
+  ![orig school summary](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/schoolSummary_Old.png)
+
+  Updated Summary for Thomas High School
+  
+  
