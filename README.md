@@ -73,3 +73,10 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
   Updated School Size Metrics
   
   ![updated size](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/size_New.png)
+  
+- Scores by School Type: Dropping the 9th grade scrores from Thomas High School had no noticable effect on the <br/>
+  metrics for school type in the district. Thomas High School is a charter school
+  
+  Orignal School Type Metrics
+  
+  ![orignal type](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/type_Old.png)
