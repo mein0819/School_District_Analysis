@@ -24,3 +24,9 @@ Replacing math and reading scores for 9th grade students at Thomas High School w
   Original District Analysis Data Frame
   
   ![orig district analysis](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/districtAnalysis_Old.png)
+
+  Updated District Analysis Data Frame
+  
+  ![updated district analysis](https://github.com/mein0819/School_District_Analysis/blob/main/readMe_Images/districtAnalysis_New.png)
+  
+- 
